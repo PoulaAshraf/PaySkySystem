@@ -1,0 +1,14 @@
+E:\Interview Tasks\PaySky_Projects\New2\Data\bin\Debug\net6.0\Data.deps.json
+E:\Interview Tasks\PaySky_Projects\New2\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+E:\Interview Tasks\PaySky_Projects\New2\Data\bin\Debug\net6.0\Data.dll
+E:\Interview Tasks\PaySky_Projects\New2\Data\bin\Debug\net6.0\Data.pdb
+E:\Interview Tasks\PaySky_Projects\New2\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+E:\Interview Tasks\PaySky_Projects\New2\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interview Tasks\PaySky_Projects\New2\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+E:\Interview Tasks\PaySky_Projects\New2\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+E:\Interview Tasks\PaySky_Projects\New2\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+E:\Interview Tasks\PaySky_Projects\New2\Data\obj\Debug\net6.0\Data.dll
+E:\Interview Tasks\PaySky_Projects\New2\Data\obj\Debug\net6.0\refint\Data.dll
+E:\Interview Tasks\PaySky_Projects\New2\Data\obj\Debug\net6.0\Data.pdb
+E:\Interview Tasks\PaySky_Projects\New2\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+E:\Interview Tasks\PaySky_Projects\New2\Data\obj\Debug\net6.0\ref\Data.dll

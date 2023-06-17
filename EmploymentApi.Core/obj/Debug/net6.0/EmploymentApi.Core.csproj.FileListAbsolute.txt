@@ -1,0 +1,17 @@
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\obj\Debug\net6.0\EmploymentApi.Core.csproj.AssemblyReference.cache
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\obj\Debug\net6.0\EmploymentApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\obj\Debug\net6.0\EmploymentApi.Core.AssemblyInfoInputs.cache
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\obj\Debug\net6.0\EmploymentApi.Core.AssemblyInfo.cs
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\obj\Debug\net6.0\EmploymentApi.Core.csproj.CoreCompileInputs.cache
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\bin\Debug\net6.0\EmploymentApi.Core.deps.json
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\bin\Debug\net6.0\EmploymentApi.Core.runtimeconfig.json
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\bin\Debug\net6.0\EmploymentApi.Core.dll
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\bin\Debug\net6.0\EmploymentApi.Core.pdb
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\bin\Debug\net6.0\Data.dll
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\bin\Debug\net6.0\Data.pdb
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\obj\Debug\net6.0\EmploymentApi.Core.csproj.CopyComplete
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\obj\Debug\net6.0\EmploymentApi.Core.dll
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\obj\Debug\net6.0\refint\EmploymentApi.Core.dll
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\obj\Debug\net6.0\EmploymentApi.Core.pdb
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\obj\Debug\net6.0\EmploymentApi.Core.genruntimeconfig.cache
+E:\Interview Tasks\PaySky_Projects\New2\EmploymentApi.Core\obj\Debug\net6.0\ref\EmploymentApi.Core.dll
